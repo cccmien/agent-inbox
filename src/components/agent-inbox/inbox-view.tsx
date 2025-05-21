@@ -209,7 +209,7 @@ export function AgentInboxView<
           <div className="w-full flex items-center justify-center p-4 flex-col">
             <div className="flex gap-2 items-center justify-center text-gray-700 mb-4">
               <InboxIcon className="w-6 h-6" />
-              <p className="font-medium">No threads found</p>
+              <p className="font-medium">No Martijnen found</p>
             </div>
           </div>
         )}
